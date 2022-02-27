@@ -1,0 +1,434 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A New-Years-gift for women. Being a true looking-glass which they seldome have in their own closets, where (for the most part) are none but flattering ones: but hereby, and herein, they may truly, plainly, and directly, see their duties, both towards God, and their own husbands. With an epistle dedicatory, directed to the feminine gender (never done before) nor the like extant in no printed book. However, many have dedicated to one or two vertuous ladies, upon some good reasons moving the author thereunto. But never any (as this is) to the whole sex of women, of what rank or quality soever they be.</title>
+            <author>Hill, William, 1619-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86361</idno>
+            <idno type="STC">Wing H2035</idno>
+            <idno type="STC">Thomason E2114_1</idno>
+            <idno type="STC">ESTC R212662</idno>
+            <idno type="EEBO-CITATION">99871255</idno>
+            <idno type="PROQUEST">99871255</idno>
+            <idno type="VID">123660</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86361)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123660)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 241:E2114[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A New-Years-gift for women. Being a true looking-glass which they seldome have in their own closets, where (for the most part) are none but flattering ones: but hereby, and herein, they may truly, plainly, and directly, see their duties, both towards God, and their own husbands. With an epistle dedicatory, directed to the feminine gender (never done before) nor the like extant in no printed book. However, many have dedicated to one or two vertuous ladies, upon some good reasons moving the author thereunto. But never any (as this is) to the whole sex of women, of what rank or quality soever they be.</title>
+                  <author>Hill, William, 1619-1667.</author>
+               </titleStmt>
+               <extent>[18], 52 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.N. for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: William Hill.</note>
+                  <note>Running title reads: The womans looking-glass.</note>
+                  <note>Annotation on Thomason copy: "Jan: 1659"; the 60 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123660:1" rendition="simple:additions"/>
+            <p>A <hi>New-Years-Gift</hi> FOR WOMEN. Being a true Looking-Glaſs Which they ſeldom have in their own Cloſets, where (for the moſt part) are none but flat<g ref="char:EOLhyphen"/>tering ones: But hereby, and herein, they may truly, plainly, and directly, ſee their duties, both towards God, and their own Husbands.</p>
+            <p>With an Epiſtle Dedicatory, directed to the <hi>Feminine Gender</hi> (never done before) nor the like extant in no Printed Book. However, many have dedicated to one or two vertuous Ladies, upon ſome good Reaſons moving the Author thereunto. But never any (as this is) to the whole Sex of Women, of what rank or quality ſoever they be.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>T. N.</hi> for the Author, 1666.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:123660:2"/>
+            <pb facs="tcp:123660:2"/>
+            <head>THE EPISTLE DEDICATORY being made for, and directed onely to thoſe of the <hi>Feminine Gender.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">G</seg>Entlewomen,</hi> of what degree or condition ſoever, whe<g ref="char:EOLhyphen"/>ther high or low, rich or poor, nobly deſcended, or ſprung out of the Beg<g ref="char:EOLhyphen"/>gars Cottage, I beſeeeh you call to remembrance (be ſome of you never ſo
+<pb facs="tcp:123660:3"/>great and eminent) That ye are all the Daughters of <hi>Eve,</hi> who was the Author of much more evil to mankinde, in ſe<g ref="char:EOLhyphen"/>ducing her Husband to eat of the forbidden Fruit, then <hi>Judas</hi> was in betraying our Saviour; for thereby, not onely <hi>Adam,</hi> and all his Poſte<g ref="char:EOLhyphen"/>rity became accurſed, as ever ſince, to eat their Bread in the ſweat of their Brows; but alſo the
+<pb facs="tcp:123660:3"/>very Earth was curſed for his ſake to bring forth Thorns and Thiſtles; and all Creatures ever ſince, even to this preſent day, have, do, and will to the end of the World, groan under the burthen there<g ref="char:EOLhyphen"/>of; which I have thought fit to premiſe to work in you poverty of ſpirit, and that excellent and adorn<g ref="char:EOLhyphen"/>ing Grace of Humility, which is the firſt, ſecond, and third ſtep to Heaven
+<pb facs="tcp:123660:4"/>(yet doth not abound in moſt Women:) But however, that foundati<g ref="char:EOLhyphen"/>on being laid, ye will be the better fitted and pre<g ref="char:EOLhyphen"/>pared, patiently, and without prejudice to read the enſuing <hi>Treatiſe,</hi> e<g ref="char:EOLhyphen"/>ſpecially if ye call to re<g ref="char:EOLhyphen"/>membrance, that into<g ref="char:EOLhyphen"/>lerable Pride, that high and tranſcendent Pre<g ref="char:EOLhyphen"/>ſumption, and that un<g ref="char:EOLhyphen"/>parallel'd Diſobedience againſt the <hi>Mighty God,</hi>
+               <pb facs="tcp:123660:4"/>committed by <hi>Eve</hi> in eating of the forbidden Fruit; whereas in very few days before (if not the ſame day) ſhe was made but of one of the crooked Ribs of her Hus<g ref="char:EOLhyphen"/>band, and he himſelf but of the duſt of the Earth: And not to be content to live in that pleaſant Gar<g ref="char:EOLhyphen"/>den, and to eat of all the rare Fruits therein (one Tree onely excepted) but to aſpire to be as God him<g ref="char:EOLhyphen"/>ſelf,
+<pb facs="tcp:123660:5"/>knowing good and evil; and yet ſhe was ex<g ref="char:EOLhyphen"/>preſly forbidden by her <hi>Eternal Creator</hi> not to eat thereof, telling her, <hi>That the ſame day ſhe did eat, ſhe ſhould die;</hi> yet ſhe hark<g ref="char:EOLhyphen"/>ned to a lie told her by the <hi>Serpent,</hi> that old de<g ref="char:EOLhyphen"/>ceiver, <hi>who was a lier from the beginning,</hi> being the ruthleſs enemy of man<g ref="char:EOLhyphen"/>kinde: And thereupon ſeeing that the <hi>Tree</hi> was good for meat, and plea<g ref="char:EOLhyphen"/>ſant
+<pb facs="tcp:123660:5"/>to the eye, did eat and gave to her Hus<g ref="char:EOLhyphen"/>band; preferring the voice of the <hi>Devil,</hi> be<g ref="char:EOLhyphen"/>fore the voice of <hi>Almighty God.</hi>
+            </p>
+            <p>And good Women, let me humbly entreat you to ſearch your hearts, Whether from that accurſed example, ye are not to this day more prone to give ad<g ref="char:EOLhyphen"/>miſsion and entertain<g ref="char:EOLhyphen"/>ment to the dictates, and
+<pb facs="tcp:123660:6"/>cunning inſinuations of <hi>Satan,</hi> then to the bleſſed Motions of <hi>Gods holy Spirit.</hi>
+            </p>
+            <p>I have often read over the whole <hi>Book of God,</hi> and taken ſeveral Notes, and many Collections out of the ſame, and thereby am as well pre<g ref="char:EOLhyphen"/>pared to expreſs the du<g ref="char:EOLhyphen"/>ties of Husbands towards Wives, as of Wives towards Husbands, for the Scripture is full of
+<pb facs="tcp:123660:6"/>both; which ſervice I will readily do for any of your Sex, who ſhall de<g ref="char:EOLhyphen"/>ſire it, and will be pleaſed to ſignifie ſo much unto the <hi>Printer</hi> hereof, who will ſoon give me notice accordingly.</p>
+            <p>But I am loath to leave you ſad and melancholy, for notwithſtanding this great tranſgreſsion, com<g ref="char:EOLhyphen"/>mitted by your Grand<g ref="char:EOLhyphen"/>mother, there remains comfort to your ſelf,
+<pb facs="tcp:123660:7"/>and to your Off-ſpring: To your ſelves in that thorow-bearing of Chil<g ref="char:EOLhyphen"/>dren, ye ſhall be ſaved: to your off-ſpring, in that God telleth the Devil thus, <hi>Thou ſhalt break his head, and he ſhall bruiſe thy heel.</hi>
+            </p>
+            <p>Moreover, <hi>Cornelius Agrippa</hi> writing in com<g ref="char:EOLhyphen"/>mendation of Women, hath four notable Ar<g ref="char:EOLhyphen"/>guments to prove the nobleneſs of Women.</p>
+            <pb facs="tcp:123660:7"/>
+            <p n="1">1. <hi>From the more excel<g ref="char:EOLhyphen"/>lent Name which God (who knew all Creatures before he named them) gave to the firſt Woman thus.</hi> Adam <hi>had his name from Earth, but</hi> Eve <hi>hers from Life.</hi>
+            </p>
+            <p n="2">2. <hi>From the order of time, for God made Wo<g ref="char:EOLhyphen"/>man laſt, and with her fi<g ref="char:EOLhyphen"/>niſhed his work, leaving off at his beſt, and moſt perfect<g ref="char:EOLhyphen"/>ed piece.</hi>
+            </p>
+            <p n="3">3. <hi>From the place of
+<pb facs="tcp:123660:8"/>her Creation, Man was made without, and was afterwards brought into the Garden of</hi> Eden, <hi>but</hi> Eve <hi>was created even within Paradiſe it ſelf.</hi>
+            </p>
+            <p n="4">4. <hi>From the Matter,</hi> Adam <hi>was formed out of Matter inanimate (vile Clay) but his Wife of a Matter purified and ani<g ref="char:EOLhyphen"/>mated.</hi>
+            </p>
+            <p>But I will draw to a concluſion, and humbly entreat a favorable, and
+<pb facs="tcp:123660:8"/>charitable conſtruction to be made of what I have here conceived; and that I may not be ſo un<g ref="char:EOLhyphen"/>happy as to be ſtiled (or ſo much as thought) to be an enemy unto Wo<g ref="char:EOLhyphen"/>men, whom I love and honor, and from whom I had my beginning, ſucking the Paps of my own Natural Mother; and having been the Husband of two Wives, and the Father of many
+<pb facs="tcp:123660:9"/>Children, both Sons and Daughters yet living.</p>
+            <p>Laſtly, I muſt ac<g ref="char:EOLhyphen"/>knowledge that I entred into the conſideration of theſe things, upon obſer<g ref="char:EOLhyphen"/>vation of the lives, diſpo<g ref="char:EOLhyphen"/>ſition, and converſation of two Gentlewomen nearly related to me, and both of my intimate ac<g ref="char:EOLhyphen"/>quaintance for divers years laſt paſt.</p>
+            <p>And therefore as ſome Almanack-makers write
+<pb facs="tcp:123660:9"/>thus, That their Book was calculated for the Meridian of ſuch a place, but may ſerve generally for all Great <hi>Britain,</hi> ſo I hope, and pray, That this poor work of mine (being principally in<g ref="char:EOLhyphen"/>tended only for the good of the two particular <hi>Gentlewomen</hi> before men<g ref="char:EOLhyphen"/>tioned) may ſpeed as well, and be uſeful in all places; and then this Widows mite being ac<g ref="char:EOLhyphen"/>cepted,
+<pb facs="tcp:123660:10"/>and having that operation, will encourage me to publiſh another Work of a far higher concernment (almoſt ready for the <hi>Preſs.</hi>) So commending it, and all of you to Gods bleſsing, I take leave and reſt</p>
+            <closer>
+               <signed>Your much devoted Servant <hi>WILLIAM HILL.</hi>
+               </signed>
+               <dateline>From <hi>Grays-Inn,</hi> 
+                  <date>20 <hi>Dec.</hi> 1659.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:123660:10"/>
+            <head>THE WOMANS Looking-Glaſs.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Muſt crave leave (for me<g ref="char:EOLhyphen"/>thod ſake) to rank Wo<g ref="char:EOLhyphen"/>men into three ſorts, and to diſcourſe of them in order, one after another.</p>
+            <p n="1">1. Good and vertuous Women, thoſe I admire and adore, confeſſing their price is above <hi>Solomons</hi> Rubies; as being loving and obedient to their Husbands, and being as fruitful Vines on the Walls of their Houſes; and their Children as Olive Plants round about their Tables; and ſuch who do their Husbands good and not evil, all the days of their lives.</p>
+            <p n="2">2. <hi>Marthaes,</hi> who cumber them<g ref="char:EOLhyphen"/>ſelves about many things, and for<g ref="char:EOLhyphen"/>get
+<pb n="2" facs="tcp:123660:11"/>that <hi>(unum neceſſarium)</hi> that one thing which is neceſſary, and are onely for the things of this World; and by Worldlings deemed and ac<g ref="char:EOLhyphen"/>counted the beſt Wives.</p>
+            <p n="3">3. Leud and vitious Women, who are neither good for this World, nor for the World to come.</p>
+            <p>To theſe of the firſt and beſt rank, I have little to ſay more, then to commend their Vertues, and to pray for their Perſeverance, that God will be pleaſed to perfect that good work which he hath begun in them.</p>
+            <p>Yet for their comfort, encourage<g ref="char:EOLhyphen"/>ment and imitation, I will mention ſome good Women whom we finde recorded in holy Scripture, and will begin with <hi>Sarah,</hi> 
+               <note place="margin">Sarah.</note> the Wife of faith<g ref="char:EOLhyphen"/>ful <hi>Abraham</hi> (who is ſtiled the Friend of God, and of her great love and obedience to her Husband, in calling him Lord: And what was
+<pb n="3" facs="tcp:123660:11"/>her reward? God opened her womb when ſhe was old, and ſhe conceiv<g ref="char:EOLhyphen"/>ed, and brought forth a Son, in whom all the Families of the earth were bleſſed.</p>
+            <p>Next in order comes <hi>Rebecca</hi> thus;<note place="margin">Rebecca.</note> when <hi>Abraham</hi> had ſent his ſervant to ſeek out a Wife for his Son <hi>Iſaac,</hi> charging him to take one of his kindred, and of his Fathers houſe, by ſpecial providence, <hi>Rebecca</hi> came accidently to water her Fathers Cat<g ref="char:EOLhyphen"/>tle, and ſhe was ſo kinde, that ſhe drew water, to make <hi>Abrahams</hi> ſer<g ref="char:EOLhyphen"/>vant drink, and his Camels alſo; ſo ſhe brought him home to her Fa<g ref="char:EOLhyphen"/>thers houſe, where he was moſt kind<g ref="char:EOLhyphen"/>ly entertained, (her Father being brother to his Maſter <hi>Abraham</hi>) to whom he revealed his meſſage, ſay<g ref="char:EOLhyphen"/>ing unto them; <hi>If ye will deale mer<g ref="char:EOLhyphen"/>cifully and kindly with my Maſter, tell me, and if not, tell me, that I may turne me to the right hand or to the left;</hi> To which they made this
+<pb n="4" facs="tcp:123660:12"/>divine anſwer, ſaying; <hi>This thing is proceeded of the Lord, we cannot there<g ref="char:EOLhyphen"/>fore ſay unto thee, neither evil or good;</hi> but thus conclude; <hi>Behold,</hi> Rebecca <hi>is before thee, take her and goe, that ſhe may be thy Maſters ſons Wife, even as the Lord hath ſaid; Then the Ser<g ref="char:EOLhyphen"/>vant took forth Iewels of ſilver and Iewels of gold, and rayment, and gave to</hi> Rebecca, <hi>alſo unto her brother, and to her Mother he gave gifts, and they did both eate and drink, and he tar<g ref="char:EOLhyphen"/>ried there all night, and when he roſe in the morning, he ſaid let me depart unto my Maſter but her mother, and her brother anſwered, let the maid abide with us at leaſt ten days, and then ſhall ſhe go,</hi> which was referred unto <hi>Re<g ref="char:EOLhyphen"/>becca</hi> her ſelf, who made choice to go preſently, whereby ſhe became a notable pattern, and worthy example to all Women, to prefer their Hus<g ref="char:EOLhyphen"/>bands, before Mother or Brother, or any friends or near relations what<g ref="char:EOLhyphen"/>ever.</p>
+            <pb n="5" facs="tcp:123660:12"/>
+            <p>Now when ſhe came near to <hi>A<g ref="char:EOLhyphen"/>brahams</hi> houſe, ſhe ſhewed abun<g ref="char:EOLhyphen"/>dance of humility, for ſeeing <hi>Iſaac</hi> coming forth to meet her, ſhe took a vail, and covered her, and ſo they became man and wife, and <hi>Iſaac</hi> loved her, and thus he was comfor<g ref="char:EOLhyphen"/>ted after his mothers death.</p>
+            <p>Next you may take notice of her ſingular wiſdom, for ſhe loving <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> her ſon, better then his brother <hi>Eſau,</hi> and ſo did Almighty God, who ſaid, <hi>Jacob have I loved, and Eſau have I hated,</hi> and when her husband <hi>Iſack</hi> was old, and his ſight dim (for he could not ſee) ſhe heard him call for his Son <hi>Eſau</hi> to him, tel<g ref="char:EOLhyphen"/>ling him that he was old and knew not the day of his death, and ſo de<g ref="char:EOLhyphen"/>ſired him to take his Bowe, and go into the field and take him ſome Veniſon, and to make him ſavory meat thereof, and bring it to him, that he might eat, and that his ſoul might bleſs him before he died,
+<pb n="6" facs="tcp:123660:13"/>wherewith <hi>Rebecca</hi> acquainted <hi>Jacob</hi> and charged him to go to the flocks, and bring her thence two good Kids of the Goats, that ſhe might make pleaſant meat of them for his Fa<g ref="char:EOLhyphen"/>ther, ſuch as he loved; telling him, that then he ſhould bring it to his Father, whereof he ſhould eat, to the intent that he might bleſs him before his death, which he did ac<g ref="char:EOLhyphen"/>cordingly. Then <hi>Rebecca</hi> took ſome clothes of her eldeſt ſon <hi>Eſau,</hi> and put them upon <hi>Jacob,</hi> and ſhe co<g ref="char:EOLhyphen"/>vered his hands, and the ſmooth of his neck with the skins of the Kids, afterward ſhe put the pleaſant meat which ſhe had prepared, into the hands of her Son <hi>Jacob,</hi> who brought the ſame unto his Father, and told him that he was <hi>Eſau</hi> his firſt born, and had done as he had bid him, de<g ref="char:EOLhyphen"/>ſiring him to eat, that his Soul might bleſs him. But <hi>Jſaac</hi> being ſomewhat jealous and ſuſpitious, bid him come near him, that he might
+<pb n="7" facs="tcp:123660:13"/>feel him, and ther by know whether he was his ſon <hi>Eſau</hi> or not; and when he had felt him, he ſaid, the voice is <hi>Ja<g ref="char:EOLhyphen"/>cobs</hi> voice, but the hands are the hands of <hi>Eſau.</hi> Afterwards he bid him again come near him, and kiſs him, and he did ſo, then he ſmelled the ſavour of his garment and bleſſed him; there<g ref="char:EOLhyphen"/>fore <hi>Eſau</hi> hated <hi>Jacob,</hi> and thought in his mind, <hi>The days of mourning for my Father will come ſhortly, then will I ſtay my brother Jacob,</hi> which words were told to <hi>Rebecca,</hi> and there, with ſhe acquainted her Son <hi>Jacob,</hi> adviſing him to flee to <hi>Haran,</hi> to her brother <hi>Laban,</hi> and to tarry with him a while, untill his Brothers fierceneſs were ſwaged, and till his wrath were turned away from him, and he had forgot thoſe things which <hi>Jacob</hi> had done unto him, promi<g ref="char:EOLhyphen"/>ſing, that ſhe would ſend and fetch him from thence, ſo ſoon as it was covenient.</p>
+            <p>Next I come to <hi>Hannah</hi> the Mother<note place="margin">Hannah.</note>
+               <pb n="8" facs="tcp:123660:14"/>of <hi>Samuel,</hi> who had the like ſucceſs and reward as <hi>Sarah,</hi> and brought forth her Son, and gave him ſuck, and after he was weaned (according to a vow which ſhe had made) when ſhe prayed earneſtly for him with many tears, yet her voice was not heard, only her lips moved, ſhe brought him and offered him to the Lord, in whoſe ſervice he continued all the days of his life.</p>
+            <p>
+               <note place="margin">Widow of Sareptath</note> Then we come to the good Wid<g ref="char:EOLhyphen"/>dow of <hi>Sareptath,</hi> who though ſhe had only but a handful of meale, and a little oyle, and ſhe was gather<g ref="char:EOLhyphen"/>ing, a few ſticks to dreſs it for her, and her Son that they might eat it, and die, for the famine was ſore, and all their victuals ſpent. And yet when <hi>Elias</hi> the Prophet came unto her (being very hungry) and deſi<g ref="char:EOLhyphen"/>red her firſt of all to make him a lit<g ref="char:EOLhyphen"/>tle cake, which ſhe did accordingly; and what was her reward, the meale in the barrels waſted not, neither
+<pb n="9" facs="tcp:123660:14"/>was the oyle in the cruſe diminiſhed, but both laſted and continued, and thereby they lived and ſubſiſted even miraculouſly, untill God ſent plenty upon the earth.</p>
+            <p>Alſo her only Son being dead, was by the Prophet reſtored unto life.</p>
+            <p>Next followeth the good <hi>Shuna<g ref="char:EOLhyphen"/>mite,</hi>
+               <note place="margin">Shuna<g ref="char:EOLhyphen"/>mite.</note> who was one of the Wives of the Sons of the Prophets, and came to <hi>Eliſha,</hi> ſaying, <hi>Thy Servant mine Husband is dead, and thou knoweſt that thy Servant did fear the Lord, and the Creditors are come to take my two Sons, and to make them Bond-men,</hi> and what did the Propher for her; thus, ſhe having in her houſe a pitcher of Oyle, he bid her get empty Veſſels and borrow ſome, which ſhe did, and ſhut the doors upon her and her two ſons, and poured the oyle from Veſſel to Veſſel, till all were full, and called to her Sons for another Veſ<g ref="char:EOLhyphen"/>ſel, they anſwered, there was none
+<pb n="10" facs="tcp:123660:15"/>left, and then and not before the oyle ceaſed running: <hi>Then ſhe came, and told the man of God, and he ſaid, Go and ſell the oyle, and pay them that thou art in debt unto, and live thou, and thy children of the reft.</hi> Alſo in the ſame Chapter, ye may read of a Woman (whoſe name we find not) but ſhe is deſcribed to be of great eſtimation, who was ſo kind to the Prophet <hi>Eliſha,</hi> that when he paſſed by that way ſhe conſtrained him to come in, and eat bread; and ſhe ſaid unto her husband; <hi>Behold, I know now that this is a holy man of God, let us make him a little chamber with walls, and let us ſet him there a Bed, and a Table, and a Stool, and a Can<g ref="char:EOLhyphen"/>dle-ſtick, that he may turn in thither, when he cometh to us;</hi> which the Pro<g ref="char:EOLhyphen"/>phet took ſo kindly, that he ſaid unto her, <hi>Behold, thou haſt had all this care for us, what ſhall we do for thee, is there any thing to be ſpoken for thee to the King, or to the Captain of the
+<pb n="11" facs="tcp:123660:15"/>Hoſte,</hi> To which ſhe anſwered, <hi>I dwell amongſt my own people.</hi> Then <hi>Gehazi,</hi> the Prophets Servant, told his Maſter, That ſhe had no ſon, and that her Husband was old. So the Prophet called her, and told her, ſaying, <hi>At the time appointed, and ac<g ref="char:EOLhyphen"/>cording to the courſe of life thou ſhalt embrace a ſon:</hi> And ſhe conceived and bear a ſon at that ſame ſeaſon, according to the time of life that <hi>Eliſha</hi> had told her.</p>
+            <p>And in proceſs of time, when the Childe was grown up, he went out to his Father, and to the Reap<g ref="char:EOLhyphen"/>ers; and he complained to his Fa<g ref="char:EOLhyphen"/>ther, ſaying, <hi>Mine head, mine head;</hi> who commanded one of his ſer<g ref="char:EOLhyphen"/>vants to carry him to his Mother, and ſhe ſate him on her knees till noon, and then he died.</p>
+            <p>Now follows a moſt remarkable ſtory, and all both precedent and ſubſequent ſprings from the good
+<pb n="12" facs="tcp:123660:16"/>diſpoſition of a vertuous, godly, and moſt faithful Woman.</p>
+            <p>And what did ſhe, ſhe went up, and laid her dead Childe upon the Bed of the Man of God, and ſhut the door upon him, and deſired her Husband (not telling him the Childe was dead) to ſend one of his yong men with an Aſs with her, telling him, <hi>She would haſte to the Man of God;</hi> and her Husband an<g ref="char:EOLhyphen"/>ſwered, <hi>Wherefore wilt thou go to him this day, it is neither new Moon, nor Sabbath day:</hi> Yet ſhe went preſent<g ref="char:EOLhyphen"/>ly, and came to him to Mount <hi>Car<g ref="char:EOLhyphen"/>mel;</hi> and when ſhe was near him, for joy ſhe had met him, and in token of humility, ſhe caught him by the feet, and his ſervant <hi>Gehazi</hi> went to thruſt her away; but the Man of God ſaid, <hi>Let her alone, for her Soul is vexed within her, and the Lord hath hid it from me, and hath not told it me.</hi> Then perceiving by her that her Childe was dead, he
+<pb n="13" facs="tcp:123660:16"/>ſaid to <hi>Gehazi, Gird thy loyns, and take my ſtaff in thy hand, and go thy way: If thou meet any, ſalute him not; and if any ſalute thee, anſwer him not, and lay my ſtaff upon the face of the childe:</hi> To which his Mother thus replied, ſaying, <hi>As the Lord liveth, and as thy ſoul liveth, I will not leave thee; therefore he aroſe, and followed her,</hi> but <hi>Gehazi</hi> was gone before, and had laid his ſtaff upon the face of the Childe, but it nei<g ref="char:EOLhyphen"/>ther ſpake nor heard; whereupon he went back to meet them, telling them, <hi>That the Childe was not waked. Then came</hi> Eliſha <hi>into the Chamber, and behold the Childe was dead; then he ſhut the door, and prayed unto the Lord: And after went up, and lay up<g ref="char:EOLhyphen"/>on the Childe, putting his mouth on his mouth, and his eyes upon his eyes, and his hands upon his hands, and ſtretched himſelf upon him, and the fleſh of the Childe waxed warm. Then the Childe ſneezed ſeven times, and
+<pb n="14" facs="tcp:123660:17"/>opened his eyes; then the Mother be<g ref="char:EOLhyphen"/>ing called, came in, and fell at his feet, and bowed her ſelf to the ground and took up her ſon.</hi>
+            </p>
+            <p>Next I come to the ſtory of <hi>Abi<g ref="char:EOLhyphen"/>gail,</hi> 
+               <note place="margin">Abigail</note> unequally yoked to Churliſh <hi>Nabal,</hi> yet a man exceeding mighty, for he had Three thouſand Sheep, and a Thouſand Goats: But <hi>Abi<g ref="char:EOLhyphen"/>gail</hi> was a Woman of ſingular wiſ<g ref="char:EOLhyphen"/>dom, and beautiful, whereby ye may by the way obſerve by the ſe<g ref="char:EOLhyphen"/>quel of the buſineſs, That it is bet<g ref="char:EOLhyphen"/>ter to be wiſe, then to be rich: For <hi>David</hi> hearing that <hi>Nabal</hi> did that day ſhear his Sheep, he ſent ten of his yong men unto him to viſit him; and for ſalutation, to ask, Whether he and his houſe, and all that he had, were in Peace, Wealth, and Proſperity; and to put him in minde, That when his Shepherds were with <hi>David,</hi> they did them no hurt, neither did they miſs any thing; and ſo deſired ſome of his
+<pb n="15" facs="tcp:123660:17"/>good cheer. But Churliſh <hi>Nabal</hi> anſwered and ſaid, <hi>Who is</hi> David? <hi>and who is the ſon of</hi> Jeſſe? <hi>there be many ſervants now adays that run a<g ref="char:EOLhyphen"/>way from their Maſters: Shall I then take my Bread, and my Water, and my Fleſh that I have killed for my Shearers, and give it unto men, whom I know not whence they be?</hi> Which anſwer <hi>Davids</hi> Servants told him, whereupon <hi>David</hi> grew angry, and commanded them to gird their Swords about them, and he himſelf alſo girded on his Sword, and about Four hundred men went up with him to be revenged upon <hi>Nabal:</hi> But now behold a miracle, the wit of a Woman; for <hi>Abigail</hi> being told of all paſſages, by one of her ſervants, ſhe made haſte and took with her Two hundred Cakes, and two Bottles of Wine; five Sheep ready dreſſed, and five meaſures of Parched Corn, a hundred Frails of Raiſins, and two hundred of Figs,
+<pb n="16" facs="tcp:123660:18"/>(all unknown to her Husband) and went with it to meet <hi>David;</hi> and meeting with him, ſhe lighted off her Aſs, and fell before him on her face, and bowed her ſelf to the ground, and fell at his feet; and thus ſaid, <hi>Let not my Lord, I pray thee, regard this wicked man</hi> Nabal; <hi>for as his name is, ſo is he;</hi> Nabal <hi>is his name, and folly is with him: But I thine Hand-maid ſaw not the yong men of my Lord, whom thou ſenteſt.</hi> Then <hi>David</hi> ſaid to <hi>Abigail, Bleſſed be the Lord God of</hi> Iſrael; <hi>and bleſſed be thy Counſel; and bleſſed be thou, which haſt kept me this day from com<g ref="char:EOLhyphen"/>ing to ſhed blood: For as the Lord of</hi> Iſrael <hi>liveth, except thou hadſt haſted, and met me, furely, here had not been leſt unto</hi> Nabal, <hi>by the dawning of the day, any that piſſeth againſt the Wall.</hi> And then <hi>David</hi> received her pre<g ref="char:EOLhyphen"/>ſents, and bad her go in peace to her houſe. So <hi>Abigail</hi> came to <hi>Na<g ref="char:EOLhyphen"/>bal,</hi> and behold he made in his houſe
+<pb n="17" facs="tcp:123660:18"/>a feaſt, like the feaſt of a King, and his heart was merry within him, for he was very drunken: Wherefore ſhe told him nothing, neither leſs nor more, until the morning aroſe; and then when the Wine was gone out of <hi>Nabal,</hi> his wife told him all paſſages, and his heart died within him, and he was like a ſtone; and about ten days after the Lord ſmote <hi>Nabal,</hi> that he died. Now when <hi>David</hi> heard that <hi>Nabal</hi> was dead, and that the Lord had recompenced his wickedneſs upon his own head. Then <hi>David</hi> ſent to commune with <hi>Abigail</hi> touching being his wife; and when <hi>Davids</hi> ſervants came, and acquainted her with it, ſhe aroſe, and bowed her ſelf on her face to the earth, ſaying, <hi>Behold, let thine hand-maid be a ſervant to waſh the feet of the ſervants of my Lord;</hi> and ſhe went with her five Maids, and ſhortly after became his Wife.</p>
+            <pb n="18" facs="tcp:123660:19"/>
+            <p>Next I think fit to ſpeak of <hi>Mi<g ref="char:EOLhyphen"/>chal</hi> the Daughter of King <hi>Saul,</hi> 
+               <note place="margin">Michal.</note> and <hi>Davids</hi> wife; who though ſhe were a Woman bad enough of all con<g ref="char:EOLhyphen"/>ſcience; for ſhe mocked <hi>David,</hi> being both her King and Husband, for dancing before the Ark of the Lord, <hi>&amp;c.</hi> Yet it is pity to omit any good done by a Woman. And thus much I finde recorded of her, That <hi>Saul</hi> intending to kill <hi>David,</hi> thruſt at him with his Spear, but he turning aſide, it miſſed him, and fell into the Wall: Then <hi>Saul</hi> ſent. Meſſengers to <hi>Davids</hi> houſe to watch him, and to ſtay him in the morning; whereof <hi>Michal</hi> gave him notice, and ſo ſhe let him down through a Window, whereby he eſcaped and fled: And ſhe took an Image and laid it in his Bed, and put a Pillow ſtufft with Goats hair un<g ref="char:EOLhyphen"/>der the head of it, and covered it with a cloth, and then told <hi>Sauls</hi> Meſſengers (who failed not to
+<pb n="19" facs="tcp:123660:19"/>come) <hi>That her Husband was ſick;</hi> who returned with this anſwer: But <hi>Saul</hi> (full of malice) ſent them a<g ref="char:EOLhyphen"/>gain, charging them to bring him in the Bed, that he might ſlay him. So God made this wicked Woman the inſtrument to preſerve <hi>Davids</hi> life, who otherwiſe had undoubtedly periſhed.</p>
+            <p>And now I come to the Noble Queen of <hi>Sheba,</hi> 
+               <note place="margin">Queen of <hi>Sheba.</hi>
+               </note> who came from far, hearing the fame of <hi>Solomon,</hi> concerning the name of the Lord, and to prove him with hard queſti<g ref="char:EOLhyphen"/>ons, and brought with her abun<g ref="char:EOLhyphen"/>dance of very rich preſents; as Gold, pretious Stones, ſweet Oders, <hi>&amp;c.</hi> Then when ſhe ſaw <hi>Solomons</hi> Wiſdom, and the Houſe which he had builded, and the Meat of his Table, and the ſitting of his Ser<g ref="char:EOLhyphen"/>vants, ſhe told the King, That it was a true Record which ſhe heard in her own Lands; howbeit, ſhe believed not the report, until ſhe
+<pb n="20" facs="tcp:123660:20"/>came and ſaw it; and then ſhe con<g ref="char:EOLhyphen"/>feſſed, That the one half was not told her, proclaiming, That happy were his men, and happy were his ſervants, who ſtood before him to hear his wiſdom: And bleſſed God who had ſet him on the Throne of <hi>Iſrael</hi> to do Equity and Righteouſ<g ref="char:EOLhyphen"/>neſs. And <hi>Solomon</hi> gave her very great gifts, and ſhe departed.</p>
+            <p>Next,<note place="margin">Ruth.</note> moſt memorable is the kindneſs of <hi>Ruth</hi> towards <hi>Naomi,</hi> being onely her Mother-in-Law, yet ſhe would not leave her, but travel with her into a far Countrey, ſaying thus unto her, <hi>Whither thou goeſt, I will go; and where thou dwel<g ref="char:EOLhyphen"/>eſt, there will I dwell: Thy people ſhall be my people; and thy God, my God. Where thou diest, will I die, and there will I be buried: The Lord do ſo to me, and more alſo, if ought but death do part thee, and me.</hi>
+            </p>
+            <p>And upon this reſolution, they travel together, and <hi>Ruth</hi> came in
+<pb n="21" facs="tcp:123660:20" rendition="simple:additions"/>the Harveſt time, to gleane Corn in the field of <hi>Boaz,</hi> who took notice of her, and uſed her kindly) and ſhortly after married her (ſhe being then a Widow) and her Mother-in-law <hi>Naomi</hi> became Nurſe unto it, of whom according to the fleſh came Chriſt, for the Text ſaith that <hi>Boaz</hi> begat <hi>Obed</hi> of <hi>Ruth,</hi> and <hi>Obed</hi> begat <hi>Jeſſe,</hi> and <hi>Jeſſe</hi> begat <hi>David.</hi>
+            </p>
+            <p>Then follows the ſtory of the thrice noble Queen <hi>Eſther,</hi> 
+               <note place="margin">Eſther.</note> who was ſo happy that ſhe found favor in the ſight of all that looked upon her; and King <hi>Ahaſhuerus</hi> loved <hi>Eſther</hi> above all the Women, and ſhe found grace and favor in his ſight more then all the Virgins, and when all the people of the Jews, were in apparent danger of utter deſtruction, ſhe commanded all the Jews to faſt three nights and three days, promiſing that ſhe and her maids would alſo faſt, which they did, and ſhe put on this hero<g ref="char:EOLhyphen"/>ick
+<pb n="22" facs="tcp:123660:21"/>diſpoſition and reſolution; ſay<g ref="char:EOLhyphen"/>ing, <hi>I will go into the King, though it be contrary to the Law, and if I periſh I periſh,</hi> and ſo ſhe preſerved all the Nation (being her own people) and cauſed <hi>Haman</hi> their enemy, and the Plotter of all miſchief, to be hanged upon the ſame gallows, which he had prepared for <hi>Mordecai</hi> her Uncle.</p>
+            <p>Now Gentlewomen of the firſt and beſt rank, give me leave, before we depart, and before I bid you farewell, to take you by the hand, and lead you to the 31. Chapter of the Proverbs, for I would have you (and ſo would God) to be as well good Huſ-wives, as good Wives, and there ye are taught your duty thus, taking notice of the preamble before it, which runs thus; <hi>What my ſon, and what the Son of my womb, and what O ſon of my deſires; Give not thy ſtrength unto Women, &amp;c.</hi> Then ſhe comes to a vertuous Woman, confeſſing her price is far above the
+<pb n="23" facs="tcp:123660:21"/>Pearles, and that the heart of her husband truſteth in her, and that ſhe will do him good and not evil all the days of her life, and that ſhe will ſeek for Wool and Flax, and labor cheerfully with her hands; and how ſhe, like the ſhips of Merchants bringeth her food from afar, and how ſhe riſeth when it is yet night, and giveth the portion to her Houſhold, and the ordinary to her maids; and how with the fruit of her hands, ſhe planteth a Vineard, and how her Candle is not put out by night, and how ſhe putteth her hands to the Wheele, and her ſingers to the ſpindle; and how ſhe feareth not the ſnow to her Family, for they are clothed in Scarlet; and how ſhe maketh ber ſelf Carpets, and fine Linnen and Purple, alſo Sheets and Girdles, and how ſhe overſeeth the walls of her Houſhold, and eateth not the bread of idleneſs; and how her Children riſe up, and call her
+<pb n="24" facs="tcp:123660:22" rendition="simple:additions"/>bleſſed; and her Husband doth daily praiſe her, ſaying, <hi>Many Daughters have done vertuouſly, but thou ſurmounteſt them all:</hi> Con<g ref="char:EOLhyphen"/>cluding, that Favor is deceitful, and Beauty is vanity; but a Woman that feareth the Lord, ſhe ſhall be praiſed. And that the fruit of her hands ſhall be given her, and her own works praiſe her in the Gates; for ſhe ſo adorneth her Husband, that ſhe maketh him to be known in the Gates, and when he ſitteth with the Elders of the Land.</p>
+            <p>Neither dare I leave out of my Catalogue <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Elizabeth,</hi> 
+               <note place="margin">Eliza<g ref="char:EOLhyphen"/>beth.</note> the Wife of <hi>Zacharias,</hi> and both eſteemed juſt before God: And ſhe was the Mother of <hi>John</hi> the Baptiſt, who was great in the ſight of the Lord, and ſo highly honored, as to Baptiſe our Saviour in his own perſon in the River of <hi>Jordan,</hi> when he was Thirty years of age. A man that neither drank Wine, nor ſtrong
+<pb n="25" facs="tcp:123660:22"/>drink; his Rayment being made of Camels Hair, and his diet being Locuſts and wilde Honey. And I ſhall deſire of you (by way of pa<g ref="char:EOLhyphen"/>rentheſis) to obſerve with me, what a wicked and perverſe people the <hi>Jews</hi> were, and no way to be plea<g ref="char:EOLhyphen"/>ſed: For our Saviour came <hi>Eating and drinking,</hi> and they ſaid of him, <hi>Behold, a Wine bibber, a friend of Publicans and Sinners: And this</hi> John <hi>came neither eating nor drink<g ref="char:EOLhyphen"/>ing, and they ſaid, Behold he hath a Devil.</hi>
+            </p>
+            <p>Now to proceed in the ſtory,<note place="margin">Anna.</note> At the Dedication of our Saviour, there was in the Temple a Propheteſs one <hi>Anna,</hi> who was of a great age, and had lived ſeven years with an Hus<g ref="char:EOLhyphen"/>band from her Virginity; and ſhe was a Widow of about Eighty four years, and went not out of the Tem<g ref="char:EOLhyphen"/>ple, but ſerved God with Faſtings and Prayers night and day; who confeſſed likewiſe the Lord, and
+<pb n="26" facs="tcp:123660:23"/>ſpake of him to all that looked for redemption in <hi>Jeruſalem.</hi>
+            </p>
+            <p>And preſently follows, That as he came to a City called <hi>Naim, Be<g ref="char:EOLhyphen"/>hold, there was a dead man carried out, the onely ſon of his Mother, and Jeſus had compaſsion on her, and ſaid unto her, Weep not; and he onely touched the Beer, and ſaid unto the yong man, Ariſe, and he roſe up and began to ſpeak, and he delivered him to his Mother.</hi>
+            </p>
+            <p>Alſo our Saviour ſo tendered the poor Widow, That he over ruled the wicked heart of the unrighte<g ref="char:EOLhyphen"/>ous judge, who neither feared God, nor reverenced Man, to do her right to avoid her importunity.</p>
+            <p>Chriſt beheld the rich men which caſt their gifts into the Treaſury, and withall took notice of a poor Wid<g ref="char:EOLhyphen"/>dow, who caſt in there two Mites, and he ſaid thus of her: <hi>Of a truth this poor Widdow hath caſt in more then they all; for they out of their ſuper<g ref="char:EOLhyphen"/>fluity
+<pb n="27" facs="tcp:123660:23"/>cast into the offerings of God, but ſhe of her penury hath caſt in all the living that ſhe had.</hi>
+            </p>
+            <p>As our Saviour was going to be crucified, there followed him a great multitude of Women, who bewailed and lamented him, and he took no<g ref="char:EOLhyphen"/>tice of them, and ſaid unto them, <hi>Daughter of Jeruſalem, weep not for me, but weep for your ſelves and your Children, for the days will come, when men ſhall ſay, Bleſſed are the Barren, and the Wombs that never bare, and the Paps that never gave ſuck.</hi>
+            </p>
+            <p>Now I come to the good Woman of <hi>Canaan,</hi>
+               <note place="margin">Good Wo<g ref="char:EOLhyphen"/>man of <hi>Cannan.</hi>
+               </note> who had a very great meaſure of Faith; for, her Daugh<g ref="char:EOLhyphen"/>ter being miſerably vexed with a Devil, ſhe came unto Jeſus and cri<g ref="char:EOLhyphen"/>ed, ſaying unto him: <hi>Have mercy on me O Lord, thou Son of David,</hi> but he anſwered her not a word: Then came his Diſciples to him, and be<g ref="char:EOLhyphen"/>ſought him ſaying, <hi>ſend her away for ſhe crieth after us,</hi> (whereby it is ap<g ref="char:EOLhyphen"/>parent
+<pb n="28" facs="tcp:123660:24"/>that her faith wrought this importunity) to which our Saviour anſwered, <hi>that he was not ſent, but unto the loſt Sheep of the Houſe of Iſ<g ref="char:EOLhyphen"/>rael;</hi> yet ſhe came and worſhipped him, ſaying, <hi>Lord help me;</hi> and he anſwered and ſaid, <hi>It is not good to take the Childrens bread and caſt it to dogs,</hi> to which ſhe (being fu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l of Faith) replied thus; <hi>Truth Lord, yet indeed the dogs eate of the crums, which fall from their Maſters table;</hi> Then Jeſus anſwered and ſaid unto her. <hi>O Woman great is thy Faith, be it un<g ref="char:EOLhyphen"/>to thee as thou beleevest,</hi> and her daughter, was made whole at that hour.</p>
+            <p>But for examples of good Wo<g ref="char:EOLhyphen"/>men,<note place="margin">Mary Magda<g ref="char:EOLhyphen"/>len.</note> 
+               <hi>I</hi> will conclude with <hi>Mary Mag<g ref="char:EOLhyphen"/>dalen,</hi> out of whom Chriſt had caſt ſeven Devils, for in her youth, ſhe was a moſt lewd and vitious woman, but afterwards proved an exempla<g ref="char:EOLhyphen"/>ry Convert, who a little before our Saviours Paſſion, having a Box of
+<pb n="29" facs="tcp:123660:24"/>very coſtly oyntment powred it on his head as he ſate at the Table; at which his Diſciples took excepti<g ref="char:EOLhyphen"/>ons, Why (being ſo coſtly) it was not ſold and given to the poor. To which our Saviour made this an<g ref="char:EOLhyphen"/>ſwer, ſaying, <hi>Why trouble ye the Woman, for ſhe hath wrought a good work upon me; for ye have the poor always with you, but me ſhall ye not have always. Verily I ſay unto you, Whereſoever this Goſpel ſhall be preach<g ref="char:EOLhyphen"/>ed throughout all the World, there ſhall alſo this that ſhe hath done, be ſpoken of for a remembrance of her.</hi>
+            </p>
+            <p>How then durſt I leave it out. Alſo ye know how ſhe waſhed his feet with her tears, and wiped them with the hair of her head.</p>
+            <p>Laſtly and chiefly, conſider her zeal and devotion, how upon the firſt day of the week early, while it was yet dark (for ſhe came to ſeek when there was no light to finde) yet ſhe came unto the Sepulchre;
+<pb n="30" facs="tcp:123660:25"/>and ſeeing the ſtone taken away from the Tom be what haſte ſhe made; for ſhe ran to call <hi>Peter</hi> and <hi>John,</hi> and albeit both theſe Diſciples (after a ſearch by them made) and not find<g ref="char:EOLhyphen"/>ing, returned to their own home, yet ſhe ſtood without at the Sepul<g ref="char:EOLhyphen"/>chre weeping, whereupon a great Divine noted and collected four ob<g ref="char:EOLhyphen"/>ſervations worthy of Memory. Thus,
+<list>
+                  <item>1. <hi>Mary,</hi> that is her Appellation or Nomination.</item>
+                  <item>2. <hi>Stood,</hi> that is her ſtation.</item>
+                  <item>3. <hi>Without at the Sepulchre,</hi> that is her deſolation.</item>
+                  <item>4. <hi>Weeping,</hi> that is her lamen<g ref="char:EOLhyphen"/>tation.</item>
+               </list>
+            </p>
+            <p>And ſhee ſees Gods love unto her being thus alone, for two Angels ap<g ref="char:EOLhyphen"/>peared to her in white, the one ſit<g ref="char:EOLhyphen"/>ting at the head, the other at the feet, where the body of Jeſus was laid, to whom ſhe ſpake thus, ſaying, <hi>They have taken away the body of my
+<pb n="31" facs="tcp:123660:25"/>Lord, and I know not where they have laid him.</hi> And immediately <hi>Jeſus</hi> himſelf appeared to her, but ſhe thought he had been the Gardner; and ſo communed with her: But then <hi>Jeſus</hi> ſpake unto her, ſaying, <hi>Mary.</hi> Then ſhe knew his voice, and turned her ſelf, and ſaid unto him, <hi>Rabboni,</hi> which is to ſay, <hi>Master. Je<g ref="char:EOLhyphen"/>ſus</hi> ſaith unto her, <hi>Touch me not, for I am not yet aſcended to my Father, but go to my Brethren and acquaint them.</hi> So ſhe went and told the Diſ<g ref="char:EOLhyphen"/>ciples, that ſhe had ſeen the Lord, and that he had ſpoken theſe things unto her.</p>
+            <p>The laſt Cordial I have to give unto vertuous Women, is a good one, and very comfortable, and that is to ſhew you, That the Lord hath made choice of your weak Sex, to be inſtrumental in theſe particular eminent and remarkable things following.</p>
+            <list>
+               <item>1. As when he was pleaſed to ſee
+<pb n="32" facs="tcp:123660:26"/>forth the excellent grace of <hi>Love,</hi> he compares it far ſurpaſſing the love, not of Men but of Women, who are moſt apt and prone to a<g ref="char:EOLhyphen"/>bound therein.</item>
+               <item>2. Likewiſe, when he would ex<g ref="char:EOLhyphen"/>preſs matter of Sorrow and Lamen<g ref="char:EOLhyphen"/>tation, he alſo compares that to Women, thus, <hi>As a Woman mourn<g ref="char:EOLhyphen"/>ing for the Husband of her youth;</hi> as if there were no greater mourn<g ref="char:EOLhyphen"/>ing.</item>
+               <item>3. But laſtly and chiefly to your Immortal Glory and Everlaſting Honor, Take notice that Women were made the Witneſſes, and the firſt and onely Witneſſes of our Sa<g ref="char:EOLhyphen"/>viours Reſurrection, and therein preferred before <hi>Peter</hi> and <hi>John,</hi> who was that beloved Diſciple.</item>
+            </list>
+            <p>Thus much touching good and andvertuous Women, for their Di<g ref="char:EOLhyphen"/>rection, Encouragement, Imitation, and Conſolation.</p>
+            <p>Now concerning the <hi>Marthaes</hi>
+               <pb n="33" facs="tcp:123660:26"/>of the world, or the worldly <hi>Mar<g ref="char:EOLhyphen"/>thaes,</hi> I could wiſh them with <hi>Mary,</hi> to chuſe the better part, and not cumber themſelves about many things, and neglect that <hi>unum ne<g ref="char:EOLhyphen"/>ceſſariums, That one thing which is neceſſary.</hi> And that they would be wiſe to think of their latter end, and to provide for eternity, knowing, that they dwell here in Houſes made of Clay, whoſe foundation is the Duſt. And ſo labor to attain the peace of a good Conſcience, to be unto them a continual feaſt, and to believe that god lineſs is great gain; for it hath the promiſe, both of this life, and of the life to come: And to be able to diſtinguiſh between things terrene, momentary, and tranſitory, and things durable, eternal, and cele<g ref="char:EOLhyphen"/>ſtial; and to conſider, that the body is but a baſe Countrey Churl, but the Soul is a very great Lord; and if they had two ſuch gueſts to en<g ref="char:EOLhyphen"/>tertain in their Houſes, they would
+<pb n="34" facs="tcp:123660:27"/>bluſh and be aſhamed to provide for the Churl all fitting accommodations, and to neglect the great Lord, making little or ſlow proviſi<g ref="char:EOLhyphen"/>on for him.</p>
+            <p>Alſo to conſider, That the World it ſelf muſt Wax old, as doth a Gar<g ref="char:EOLhyphen"/>ment, and a time will come, and that ſhortly, when the Sun ſhall be darkned, and the Moon ſhall not give her light; when the ſtars ſhal fall from Heaven, and the powers of Heaven ſhall be ſhaken; and when ye ſhall hear the ſound of the Trum<g ref="char:EOLhyphen"/>pet in your ears, ſaying, <hi>Ariſe ye dead, and some to judgment;</hi> and then the Graves ſhall be opened, and the dead ſhall ariſe; the Sea alſo ſhall yield up her dead, and all fleſh ſhall appear naked before Gods tri<g ref="char:EOLhyphen"/>ou<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſeat, then and there to re<g ref="char:EOLhyphen"/>ceive a recompence and reward (not for, but) according to the works which they have done, be they good <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <pb n="35" facs="tcp:123660:27"/>
+            <p>And theſe things being ſo, as moſt certainly they are, what manner of perſons ought ye to be in holy Converſations, and in Godlineſs. How ought ye to give all diligence to make your Calling and Election ſure; that ye be in the number of Chriſts little flock, for whom he hath prepared a Kingdom before the foundation of the world was laid, that ſo whenſoever it ſhall pleaſe him to ſummon you to appear be<g ref="char:EOLhyphen"/>fore him, whether in the morning, or in the eveving, the Cock crow<g ref="char:EOLhyphen"/>ing, or the dawning of the day, ye may with the wiſe Virgins, have your Oyl burning in your Lamps (even the fruit of a pure Converſa<g ref="char:EOLhyphen"/>tion) and ſo may enter into your Maſters joy: And having been found faithful in little, ye may be made ruler, and over much, and then ye muſt be content to make your Bed in the darkneſs, and to ſay to <hi>Corruption, Thou art my Mother;</hi>
+               <pb n="36" facs="tcp:123660:28"/>and to the <hi>Worms, Ye are our ſiſters, and our brethren.</hi>
+            </p>
+            <p>Therefore it is high time for you to give over reading the 31 Chapter of the <hi>Proverbs,</hi> which teacheth onely matter of good Houſwivery, and be more careful to read and ſtudy other places of the Scripture, which do put you in minde of the Immortality of the Soul, that ſo ye may make timely proviſion for it, and cry out with the Goaler in the <hi>Acts,</hi> ſaying, <hi>Men and Brethren, what ſhall we do to be ſaved.</hi>
+            </p>
+            <p>By this time, I doubt not, but ye have a deſire to go to Heaven; and for your furtherance in ſo happy a journey, I will be bold to acquaint you with three ways leading there<g ref="char:EOLhyphen"/>unto.</p>
+            <p>Firſt, there be ſome that ſteale into Heaven, by works of Mercy, and deeds of Charity, when they <hi>feed the hungary, and clothe the naked, and ſuffer none to periſh for want of
+<pb n="37" facs="tcp:123660:28"/>clothing, nor no poor to be without co<g ref="char:EOLhyphen"/>vering, but rather that their Loines may bleſs them, being warned with the Fleece of their ſheep;</hi> and yet all this to be ſo performed, that the right hand ſhall not know what the left hand doth.</p>
+            <p>Secondly, there be ſome who are driven and beaten as 'twere into Heaven; as by trouble, affliction, perſecution, poverty, ſickneſs or the like, for then you know what is ſpo<g ref="char:EOLhyphen"/>ken in the Pſalmiſt; <hi>In their afficti<g ref="char:EOLhyphen"/>on they will ſeek me diligently.</hi>
+            </p>
+            <p>Thirdly, there are others who take or ſeize the Kingdom of Hea<g ref="char:EOLhyphen"/>ven, by force and violence, as it is ſpoken in the Scripture, <hi>the Kindom of Heaven ſuffereth violence;</hi> as when it is gotten by earneſt importunity; as the poor importunate Widdow, who overcame the unrighteous Judge, and even forced him to grant her requeſt; or as <hi>Jacob</hi> contending all night with Chriſt himſelf, telling
+<pb n="38" facs="tcp:123660:29"/>him, that unleſs he bleſſed him, he would not let him go.</p>
+            <p>So if it pleaſe God to make you ſo happy as to find out either of theſe three ways, ye will then at<g ref="char:EOLhyphen"/>taine the end of your hopes, which is the ſalvation of your Souls; which is of far greater price and value then all the things in the World, nay, then ten thouſand Worlds; for then ye ſhall come to live and raigne with the Eternal God, Father, Son and Holy Ghoſt, and with his glo<g ref="char:EOLhyphen"/>rious Quire of Heavenly Angels, and of the Spirits of juſt and holy men, who have departed this life in the fear of his bleſſed name; and there ſhall ye enjoy fulneſs of joy, and that for evermore.</p>
+            <p>Now I come to my laſt and worſt ſort of Women, namely, lewd and vitious women, who as I told you in the beginning, are neither good for this World, nor for the World to come; and therefore I take the leaſt
+<pb n="39" facs="tcp:123660:29"/>care of them, and will beſtow the leaſt pains upon them, and the book of God makes mention of too many of them.</p>
+            <p>For there we reade of the mon<g ref="char:EOLhyphen"/>ſtrous impiety and horrid luſt of <hi>Po<g ref="char:EOLhyphen"/>tiphars</hi> Wife, ſo often aſſaulted the chaſtity of vertuous <hi>Joſeph,</hi> and that with impudency after deni<g ref="char:EOLhyphen"/>all.</p>
+            <p>Yee read alſo of the intollerable pride of Queen <hi>Vaſthi,</hi> in not obey<g ref="char:EOLhyphen"/>ing the command of the King her husband, and what became of her.</p>
+            <p>And of painted <hi>Jezabel,</hi> whoſe blood the very Dogs licked up.</p>
+            <p>Alſo of <hi>Jobs</hi> Wife, who gave her husband no better councel, then to curſe God and die; and after<g ref="char:EOLhyphen"/>wards in his greateſt miſery, how her breath was ſtrange unto him, though he intreated her for the fruit of her body.</p>
+            <p>And here I may not omit what
+<pb n="40" facs="tcp:123660:30"/>experience almoſt every Aſſizes bringeth forth, both in our days and the days of our Fore-fathers, that ſeldome any notable Robberies or cruel Murthers have been com<g ref="char:EOLhyphen"/>mitted, but a woman or more had a hand in it, and were the chief Con<g ref="char:EOLhyphen"/>trivers and Actors thereof, deſtroy<g ref="char:EOLhyphen"/>ing the Mother with her ſucking Babe, and that without any pitty, compaſſion or remorſe; and ſeldom any Aſſizes paſs, but ſome of them are indicted, convicted, and juſtly condemned and executed for killing and moſt unnaturally deſtroying the fruit of their own bodies.</p>
+            <p>But I call to remembrance a Book heretofore written by one <hi>Greene,</hi> to teach men to beware of Cutpurſes, and diſcovering all their cunning ſe<g ref="char:EOLhyphen"/>crets, and underhand practiſes, where, by in the judgment of wiſe men, he did much more harm then good, and taught divers to becom Cutpur<g ref="char:EOLhyphen"/>ſes, who before had no thought to
+<pb n="41" facs="tcp:123660:30"/>bend their ſtudies that way: There<g ref="char:EOLhyphen"/>fore I will forbear divers particular moſt wicked and barbarious actions (which I could mention) done and committed by Women, which not<g ref="char:EOLhyphen"/>withſtanding condemns not the ge<g ref="char:EOLhyphen"/>nerality of that Sex (God forbid) but ſhews that Paſſion and Affection in them, either in love or hatred, is much more extream and violent then in Men, according to the verſe of the Poet.</p>
+            <q>
+               <p>Aut te vehementer amat vel te capitaliter odit.</p>
+               <p>Either they will love intirely, or hate deadly.</p>
+            </q>
+            <p>Laſtly, Taking notice that al<g ref="char:EOLhyphen"/>moſt in every particular County of the Nation, where there are Hus<g ref="char:EOLhyphen"/>bands and Wives who live a ſunder, and do not cohabite yet not for the act of Adultery, which is the (and
+<pb n="42" facs="tcp:123660:31"/>the onely) cauſe of Separation; but for other ſiniſter reſpects, whereby it is evident, that they live in ſin, and provoke God to wrath and in<g ref="char:EOLhyphen"/>dignation againſt them, and their poſterity.</p>
+            <p>Therefore I much pitying their caſes, and having therein in ſome meaſure, my ſelf, been a ſuffer, I ſhall endeavor by the aſſiſtance of Almighty God to open their eyes, and convince their judgments of the unlawfulneſs thereof, and manifold inconveniencies ariſing thereby; for it had been better they had never one ſeen another. But I come to my proofs, and that out of the Word of God, which are both ſatisfactory and unanſwerable.</p>
+            <p>Firſt, We are to call to minde the ſolemn promiſes and engage<g ref="char:EOLhyphen"/>ments they made to their Husbands at the time of their marriage, for then the Miniſter asked them thus.</p>
+            <pb n="43" facs="tcp:123660:31"/>
+            <p>
+               <hi>Wilt thou have this man to thy wed<g ref="char:EOLhyphen"/>ed Husband, to live together in the holy eſtate of Matrimony. Wilt thou obey him, and ſerve him, love, honor, and keep him in ſickneſs and in health, and forſaking all other, keeping thee only unto him ſo long as ye both ſhall live.</hi>
+            </p>
+            <p>To which the Woman anſwered, <hi>I will.</hi>
+            </p>
+            <p>Here is an abſolute, not a condi<g ref="char:EOLhyphen"/>tional promiſe, and that for term of life to live together, elſe there is no obedience, nor love, <hi>&amp;c.</hi>
+            </p>
+            <p>Next they took their Husbands by the right hand, ſaying after the Miniſter theſe words.</p>
+            <q>
+               <hi>J. A.</hi> take thee <hi>B.</hi> to my wedded Husband: To have and to hold from this day forward, for better for worſe, for richer for poorer; in ſickneſs and in health: To love, cheriſh and to obey, till death us depart accord<g ref="char:EOLhyphen"/>ing
+<pb n="44" facs="tcp:123660:32"/>to Gods holy Ordinance, and there<g ref="char:EOLhyphen"/>to I give thee my troth.</q>
+            <p>A ſacred Obligation and a Knot inviolable, during life, though ſick<g ref="char:EOLhyphen"/>neſs or poverty ſhould intervene, or any other diſaſter.</p>
+            <p>Moreover, the Miniſter did joyn their right hands together, uſing theſe words. <hi>Thoſe whom God hath joyned together, let no man put a<g ref="char:EOLhyphen"/>ſunder.</hi>
+            </p>
+            <p>If no man can do it, then they themſelves cannot, much leſs one of them.</p>
+            <p>Alſo the Miniſter gave them this Bleſſing.</p>
+            <q>God the Father, God the Son, and God the Holy Ghoſt bleſs you, &amp;c. and ſo fill you with all ſpiritual benediction and grace, that ye may ſo live together in this life, that in the world to come, ye may have life everlaſting.</q>
+            <pb n="45" facs="tcp:123660:32"/>
+            <p>No benediction nor grace, unleſs they live together, not aſunder.</p>
+            <p>Then obſerve the Prayer after<g ref="char:EOLhyphen"/>wards, one running thus.</p>
+            <q>O eternal God, Creator and Pre<g ref="char:EOLhyphen"/>ſerver of all mankinde, ſend thy bleſs<g ref="char:EOLhyphen"/>ing upon this Man and this Woman, that as <hi>Iſaac</hi> and <hi>Rebecca</hi> lived faith<g ref="char:EOLhyphen"/>fully together ſo theſe perſons may ſurely perform the Vow and Covenant-between them made.</q>
+            <p>The Scripture declareth, That curſed is he or ſhe, who maketh a Vow, and performeth it not.</p>
+            <p>Another Prayer is thus.</p>
+            <q>O God, who didſt appoint, that out of Man, Woman ſhould take her begin<g ref="char:EOLhyphen"/>ing; and by knitting them together, didſt teach, That it ſhould never be lawful to put aſunder thoſe, whom thou by Matrimony haſte made one. Grant that this Woman may be loving and
+<pb n="46" facs="tcp:123660:33" rendition="simple:additions"/>amiable to her Husband <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Rachel,</hi> wiſe as <hi>Rebecca,</hi> faithful and obedi<g ref="char:EOLhyphen"/>ent as <hi>Sarah,</hi> and in all quietneſs, ſo<g ref="char:EOLhyphen"/>briety, and peace, be a follower of holy and godly Matrons.</q>
+            <p>Here is likewiſe a living toge<g ref="char:EOLhyphen"/>ther, and not putting aſunder, and obedience prayed for on the Wives behalf, as likelieſt to <hi>Rebecca.</hi>
+            </p>
+            <p>More out of the Holy Scripture.</p>
+            <p>Geneſis, Chap. 3. <hi>It was part of the puniſhment which God impoſed upon you for the tranſgreſsion of your Grand-Mother Eve, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> re<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing you, that your deſire ſhall be ſubject to your Husband, and they ſhall reigne over you.</hi>
+            </p>
+            <p>If God hath ſo appointed, and that juſtly, who dare diſobey.</p>
+            <p>Gen. 24. Chap. verſe 55. <hi>Rebec<g ref="char:EOLhyphen"/>caes Mother and Brother deſired that ſhe might ſtay with them at leaſt ten days, before ſhe went to Iſaac, and
+<pb n="47" facs="tcp:123660:33"/>the matter being referred unto her, ſhe made choice to go preſently.</hi>
+            </p>
+            <p>Whereby, it is apparent that the company of a Husband, is to be preferred before Mother or Brother, or any Friends or Relations whatſo<g ref="char:EOLhyphen"/>ever.</p>
+            <p>Numb. 13.8. <hi>The husband hath power to diſallow the vow of the Wife, and make it of none effect.</hi>
+            </p>
+            <p>Whereby it is manifeſt that his power is very great, and much more to intreate or command her Com<g ref="char:EOLhyphen"/>pany.</p>
+            <p>Deut. 28.56. <hi>The delicate Woman who could not ſet the ſole of her foot to the ground for tenderneſs, the Text ſaith, her eye ſhall be evil toward the husband of her Boſome.</hi>
+            </p>
+            <p>So that an evil eye towards the Husband is peculiar to a proud wife.</p>
+            <p>Job 19.17. <hi>Holy Job complained, that his breath was ſtrange to his VVife though he intreated, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Job</hi> would not have complained
+<pb n="48" facs="tcp:123660:34"/>for nothing, therefore it was a great Judgment.</p>
+            <p>Prov. 31.10, 12. <hi>Who can find a vertuous Woman, for her price is above Rubies; the heart of her husband doth ſafely truſt in her; ſhe will do him good, and not evil all the days of her life.</hi>
+            </p>
+            <p>This cannot be done if they live aſunder, for then there is doing nei<g ref="char:EOLhyphen"/>ther of good nor evil in relation each to other.</p>
+            <p>Jer. 3.20. <hi>A woman treacherouſly departeth from her husband; ſo have ye deabt treacherouſly with me, O houſe of Iſrael, ſaith the Lord.</hi>
+            </p>
+            <p>So that no departing can be with<g ref="char:EOLhyphen"/>out being guilty of Treachery.</p>
+            <p>New Teſtament.</p>
+            <p>Mat. 19.6. Our Saviour ſpeak<g ref="char:EOLhyphen"/>ing of Man and Wife, ſaith, <hi>They are no more twaine, but one fleſh; what therefore God hath joined together, let not man put aſunder.</hi>
+            </p>
+            <pb n="49" facs="tcp:123660:34"/>
+            <p>A fearful thing to untie Gods knot, and them impoſſible for one to have, and the other to want.</p>
+            <p>Rom. 7.2. <hi>The Woman which hath a Husband, is bound by the Law to her Husband ſo long as he lives.</hi>
+            </p>
+            <p>So that it is as lawful for an Ap<g ref="char:EOLhyphen"/>prentice to run away from his Ma<g ref="char:EOLhyphen"/>ſter, as for a Wife to depart from her Husband without his conſent.</p>
+            <p>1 Cor. 7.4. <hi>The Wife hath not power of her own body, but the Hus<g ref="char:EOLhyphen"/>band.</hi>
+            </p>
+            <p>How then can the Wife diſpoſe of any thing which is not her own.</p>
+            <p>Verſe 16. <hi>What knoweſt thou O Wife, whether thou ſhalt ſave thy Hus<g ref="char:EOLhyphen"/>band.</hi>
+            </p>
+            <p>A ſtrange Salvation likely to be wrought when they live many miles aſunder.</p>
+            <p>Verſe 34. <hi>The married Woman careth for the things of the World, how ſhe may pleaſe her Husband.</hi>
+            </p>
+            <p>Which is done in nothing more,
+<pb n="50" facs="tcp:123660:35"/>then to live with him if he deſire it.</p>
+            <p>Verſe 10. <hi>The Apoſtle ſaith, I command, and yet not I, but the Lord: Let not the Wife depart from her Hus<g ref="char:EOLhyphen"/>band.</hi>
+            </p>
+            <p>If the high God command, who dare diſobey.</p>
+            <p>Verſe 13. <hi>The Woman which hath an Husband that believeth not, if he be pleaſed to dwell with her, let her not leave him.</hi>
+            </p>
+            <p>If unbelief be not a cauſe of ſepa<g ref="char:EOLhyphen"/>ration, what then can be (except Fornication) <hi>I am ſure neither pover<g ref="char:EOLhyphen"/>ty, ſickneſs, &amp;c.</hi>
+            </p>
+            <p>1 Cor. 9.5. St. <hi>Paul</hi> ſaith, <hi>Have we not power to lead about a Wife, as well as other Apoſtles.</hi>
+            </p>
+            <p>It ſeems in thoſe days, that good Wives ſhould follow their Husbands where ever they went.</p>
+            <p>1 Cor. 11.3. <hi>The Head of the Woman is the Man.</hi>
+            </p>
+            <p>A ſtrange thing to have the Head
+<pb n="51" facs="tcp:123660:35" rendition="simple:additions"/>and the Body many miles aſunder.</p>
+            <p>Verſe 8, 9. <hi>The Man is not of the Woman, but the Woman of the Man; neither was the Man created for the Man.</hi>
+            </p>
+            <p>A fearful thing for the Wife to ſeparate, not regarding the end of her Creation, for whom ſhe was made.</p>
+            <p>Verſe 12. <hi>The Woman is of the Man, but the Man is by the Woman.</hi>
+            </p>
+            <p>If of the Man, how can they part ſtakes and withdraw?</p>
+            <p>Col. 3.18. <hi>The Apoſtle commands Wives to ſubmit to their own husbands.</hi>
+            </p>
+            <p>Then certainly muſt dwell with them, if they deſire it, elſe it is not ſubmiſſion but rebellion, the Wife not having power of her own body.</p>
+            <p>Eph. 5.23. <hi>The Husband is the Head of the Wife, even as Chriſt is the Head of the Church: Therefore as the Church is ſubject unto Chriſt, ſo let Wives be unto their Husbands in every thing.</hi>
+            </p>
+            <pb n="52" facs="tcp:123660:36"/>
+            <p>Oh that the great God of Hea<g ref="char:EOLhyphen"/>ven and Earth, ſhould compare the tye between Husband and Wife, to the Myſtical Union between Chriſt and his Church!</p>
+            <p>1 Pet. 3.1. <hi>Wives, be in ſubjection to your own Husbands; that if any obey not the Word, they may without the Word be wone by the converſation of the Wives.</hi>
+            </p>
+            <p>Converſation and Cohabitation, are inſeparable companions: For how can they converſe, unleſs they cohabite.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:123660:36"/>
+         </div>
+      </body>
+   </text>
+</TEI>
